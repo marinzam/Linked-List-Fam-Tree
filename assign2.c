@@ -1,5 +1,5 @@
 
-// COMP 524 Assignment 2: Family tree
+// Family tree
 // Authors: Geraldine Marin-Zamora and Duy Nyguyen
 
 #include <stdlib.h>
